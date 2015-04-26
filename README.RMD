@@ -1,0 +1,22 @@
+---
+title: "DevelopingDataProducts"
+author: "Cedric Choo"
+date: "Monday, April 27, 2015"
+output: html_document
+---
+
+# Executive summary #
+
+This is the Project Work for Developing Data Products.
+Given the short timeframe available, this is a simplied application that can be expanded when more time is available.
+
+## Use of Application ###
+
+It is a simple application.
+
+You can do any of the following:
+1. Select the X value.
+2. Select the Operator.
+3. Select the Y value.
+
+The resulting result will be displayed accordingly based on the selection.
